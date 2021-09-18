@@ -1,0 +1,1 @@
+export const GET_PALLETE_DETAIL = "GET_PALLETE_DETAIL";

@@ -2,10 +2,15 @@ import React from "react";
 
 import AppBar from "../components/AppBar";
 import Header from "../components/Header";
-import pallete from "../data/initialPallete.json";
+
 import Palletes from "../components/Palletes";
 
+import { useSelector } from "react-redux";
+
 const Home = () => {
+  const palletes = useSelector((state) => state.palletes.palletes);
+
+  console.log(palletes);
   return (
     <div>
       <AppBar />
@@ -26,7 +31,7 @@ const Home = () => {
             </div>
           </div>
 
-          <Palletes pallete={pallete.pallete} />
+          <Palletes pallete={palletes} />
         </div>
       </div>
     </div>

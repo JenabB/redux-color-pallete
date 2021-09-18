@@ -15,7 +15,7 @@ export default function Navigation() {
           <Route exact path="/" component={Landing} />
           <Route path="/home" component={Home} />
           <Route path="/featured" component={Featured} />
-          <Route path="/most-popular" component={MostPopular} />
+          <Route path="/popular" component={MostPopular} />
           <Route path="/rising" component={Rising} />
           <Route path="/pallete/:id" component={PalleteDetail} />
         </Switch>
