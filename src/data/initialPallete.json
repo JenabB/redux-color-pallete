@@ -1,0 +1,181 @@
+{
+  "pallete": [
+    {
+      "pallete_id": "0001A",
+      "title": "Pastel",
+      "popularity": 10,
+      "createdAt": "1975-08-19T23:15:30.000Z",
+      "categories": ["general"],
+      "data": [
+        {
+          "id": 1,
+          "color": "#E0BBE4"
+        },
+        {
+          "id": 2,
+          "color": "#957DAD"
+        },
+        {
+          "id": 3,
+          "color": "#D291BC"
+        },
+        {
+          "id": 4,
+          "color": "#FEC8D8"
+        },
+        {
+          "id": 5,
+          "color": "#FFDFD3"
+        }
+      ]
+    },
+    {
+      "pallete_id": "0002A",
+      "title": "Japanese Autumn",
+      "popularity": 100,
+      "createdAt": "1975-08-19T23:15:30.000Z",
+      "categories": ["japanese", "autumn"],
+      "data": [
+        {
+          "id": 1,
+          "color": "#F2D1B5"
+        },
+        {
+          "id": 2,
+          "color": "#9F3434"
+        },
+        {
+          "id": 3,
+
+          "color": "#331D1D"
+        },
+        {
+          "id": 4,
+          "color": "#8D7051"
+        },
+        {
+          "id": 5,
+          "color": "#E1B486"
+        }
+      ]
+    },
+    {
+      "pallete_id": "00C2A",
+      "title": "Bali",
+      "popularity": 56,
+      "createdAt": "1975-08-19T23:15:30.000Z",
+      "categories": ["Indonesian"],
+      "data": [
+        {
+          "id": 1,
+          "color": "#D44601"
+        },
+        {
+          "id": 2,
+          "color": "#5C0D09"
+        },
+        {
+          "id": 3,
+          "color": "#177263"
+        },
+        {
+          "id": 4,
+          "color": "#52C0A7"
+        },
+        {
+          "id": 5,
+          "color": "#DBC6AE"
+        }
+      ]
+    },
+    {
+      "pallete_id": "0006C",
+      "title": "Japanese Vintage",
+      "popularity": 89,
+      "createdAt": "1975-08-19T23:15:30.000Z",
+      "categories": ["japanese", "vintage"],
+      "data": [
+        {
+          "id": 1,
+          "color": "#6D423C"
+        },
+        {
+          "id": 2,
+          "color": "#E08174"
+        },
+        {
+          "id": 3,
+
+          "color": "#F1CCAA"
+        },
+        {
+          "id": 4,
+          "color": "#ECE1C9"
+        },
+        {
+          "id": 4,
+          "color": "#B7E0D7"
+        }
+      ]
+    },
+    {
+      "pallete_id": "0077S",
+      "title": "Mocha Java",
+      "popularity": 199,
+      "createdAt": "1975-08-19T23:15:30.000Z",
+      "categories": ["Indonesian", "Mocha"],
+      "data": [
+        {
+          "id": 1,
+          "color": "#94857A"
+        },
+        {
+          "id": 2,
+          "color": "#A19DA0"
+        },
+        {
+          "id": 3,
+
+          "color": "#362927"
+        },
+        {
+          "id": 4,
+          "color": "#9C7B6C"
+        },
+        {
+          "id": 4,
+          "color": "#704C3A"
+        }
+      ]
+    },
+    {
+      "pallete_id": "00S87",
+      "title": "Summer",
+      "popularity": 1099,
+      "createdAt": "2011-08-19T23:15:30.000Z",
+      "data": [
+        {
+          "id": 1,
+          "color": "#AAE7D0"
+        },
+        {
+          "id": 2,
+          "color": "#DCEDC2"
+        },
+        {
+          "id": 3,
+
+          "color": "#FFD3B5"
+        },
+        {
+          "id": 4,
+          "color": "#FFAAA6"
+        },
+        {
+          "id": 4,
+          "color": "#FF8C94"
+        }
+      ]
+    }
+  ]
+}
