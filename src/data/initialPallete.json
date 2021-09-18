@@ -152,6 +152,7 @@
       "pallete_id": "00S87",
       "title": "Summer",
       "popularity": 1099,
+      "categories": ["Season", "Summer"],
       "createdAt": "2011-08-19T23:15:30.000Z",
       "data": [
         {

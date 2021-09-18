@@ -2,10 +2,17 @@ import React from "react";
 import { Link } from "react-router-dom";
 import moment from "moment";
 import { motion } from "framer-motion";
+import { useDispatch } from "react-redux";
+import { getPalleteDetail } from "../redux/actions";
 
 const Pallete = ({ p }) => {
+  const dispatch = useDispatch();
+
   return (
-    <Link to={`/pallete/${p.pallete_id}`}>
+    <Link
+      to={`/pallete/${p.pallete_id}`}
+      onClick={() => dispatch(getPalleteDetail(p))}
+    >
       <motion.div
         whileHover={{
           scale: 1.1,
